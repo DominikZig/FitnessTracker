@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+
+  <servlet>
+    <servlet-name>fitTrackerServlet</servlet-name>
+    <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+    <init-param>
+      <param-name>contextConfigLocation</param-name>
+      <param-value>/WEB-INF/config/servlet-config.xml</param-value>
+    </init-param>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>fitTrackerServlet</servlet-name>
+    <url-pattern>*.html</url-pattern><!--Says to send everything that's a .html to our DispatcherServlet (i.e. servlet-config), servlet-config then starts
+    looking for our Controllers (context:component-scan part)-->
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>fitTrackerServlet</servlet-name>
+    <url-pattern>/pdfs/**</url-pattern><!--All that's needed to view pdfs on our application, no controller or view
+    resolver etc. needs to be manually created  (this is all done but behind the scenes/automatically)-->
+  </servlet-mapping>
+  
+  <servlet-mapping>
+    <servlet-name>fitTrackerServlet</servlet-name>
+    <url-pattern>*.json</url-pattern>
+  </servlet-mapping>
+  
+  
+  <display-name>Archetype Created Web Application</display-name>
+</web-app>

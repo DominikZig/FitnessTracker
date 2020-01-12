@@ -1,0 +1,25 @@
+
+Z
+*src/main/webapp/WEB-INF/jsp/addMinutes.jsp,8\4\84186ea7b1508e88201145f56388ea48a4fc3f2d
+]
+-src/main/java/com/pluralsight/model/Goal.java,1\8\18a09b7885a4e367baa98961c796aaaf589100e8
+a
+1src/main/java/com/pluralsight/model/Activity.java,5\e\5edfbfc36fca457f9bd71c2af35ca6fe783e088c
+n
+>src/main/java/com/pluralsight/service/ExerciseServiceImpl.java,7\3\73b5407f987a4d4e9a52577996dcbf21bf35f3b6
+W
+'src/main/webapp/WEB-INF/jsp/addGoal.jsp,c\e\cece6eca5ba699edc9fd1209e5eb7531c3125081
+m
+=src/main/java/com/pluralsight/controller/HelloController.java,b\0\b086377c2b5401d9a777655d143e413fcca4402c
+l
+<src/main/java/com/pluralsight/controller/GoalController.java,6\e\6e8803ed2fa5c613f3a2de36a5e3161d3f6c523c
+o
+?src/main/java/com/pluralsight/controller/MinutesController.java,2\4\242eec9ba81418a3095d6e0a00c47908806d61de
+j
+:src/main/java/com/pluralsight/service/ExerciseService.java,8\1\81235a9011918bdfffe65e7d7476f955dfb2acec
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+a
+1src/main/webapp/WEB-INF/config/servlet-config.xml,3\a\3ad27e8859148283d9952dd28df78acc4f02dfa7
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
