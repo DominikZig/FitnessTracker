@@ -25,11 +25,14 @@ features, such as localisation (having Spanish language support), validation and
 
 **Screenshots:**
 
+
 Add Goal Page:
  ![AddGoalPage](AddGoalPageScreenshot.PNG)
- 
+
+
 Add Minutes Page:
 ![AddMinutesPage](AddMinutesPageScreenshot.PNG)
+
 
 Validation Example:
 ![ValidationExample](ValidationExampleScreenshot.PNG)
