@@ -1,8 +1,8 @@
 
-nsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8£ê¯£ø-
-fsquid:S4488&"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ŸˆùŸ8£ê¯£ø-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(‡„ş³üÿÿÿÿ8£ê¯£ø-
-asquid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(Å¿ï’üÿÿÿÿ8£ê¯£ø-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(ùˆÅ8£ê¯£ø-
+fsquid:S4488&"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ŸˆùŸ8£ê¯£ø-
+nsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8£ê¯£ø-
+asquid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(Å¿ï’üÿÿÿÿ8£ê¯£ø-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡„ş³üÿÿÿÿ8£ê¯£ø-
