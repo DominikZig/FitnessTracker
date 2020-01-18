@@ -14,7 +14,7 @@ You can then enter how many minutes you exercised for today and which activity y
 **Technical Info:**
 
 The project uses Java (specifically Spring Framework and Spring MVC) for backend
-and JSP/html and jQuery for frontend. It follows a Model View Controller architecture
+and JSP/HTML and jQuery for frontend. It follows a Model View Controller architecture
 as well as having a Service tier for business logic (there is no Repository tier
 as there is no persistent data being stored in this project). Maven is used for 
 dependency management and Tomcat is used as the application server.

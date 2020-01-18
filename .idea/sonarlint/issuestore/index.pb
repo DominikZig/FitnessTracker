@@ -23,3 +23,7 @@ a
 1src/main/webapp/WEB-INF/config/servlet-config.xml,3\a\3ad27e8859148283d9952dd28df78acc4f02dfa7
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+I
+src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
+U
+%src/main/webapp/WEB-INF/jsp/hello.jsp,d\6\d68b3a75012ca1cc336905603f2d3e8ff144bf4d
